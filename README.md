@@ -14,3 +14,11 @@ Key Features
 
 <li>Model Serialization: Includes .pkl files for easy model reuse and integration in production environments.</li>
 </ul>
+
+Technologies Used
+<ul>
+  <li>Python, Pandas, NumPy</li>
+  <li>Scikit-learn (Random Forest, LabelEncoder)</li>
+  <li>Imbalanced-learn (SMOTE)</li>
+  <li>Joblib (Model Persistence)</li>
+</ul>
